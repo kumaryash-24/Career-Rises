@@ -6,7 +6,7 @@
 
 **Career's Rise** is a modern MERN Stack Job Portal that connects job seekers with recruiters. With robust user authentication, job posting, file uploads (profile pic/resume), and beautiful UI, it bridges the gap between talent and opportunity.
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🔥 Features
 
@@ -19,7 +19,7 @@
 - 🎯 Separate Dashboards for Users & Recruiters  
 - 🌐 Fully Responsive UI (Bootstrap + React)  
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## ⚙️ Tech Stack
 
@@ -34,7 +34,7 @@
 | Bootstrap         | Responsive UI Framework       |
 | JWT + Cookies     | Authentication                |
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🛠️ Created With
 
@@ -48,13 +48,13 @@ This project is lovingly crafted using:
 - 📦 npm for managing dependencies  
 - 📁 Multer for handling file uploads
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🙌 Contributing
 
 Feel free to fork, suggest features, or raise issues. Let’s build together!
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 📧 Contact
 
@@ -63,7 +63,7 @@ Made with ❤️ by Kumar Yash
 
 > “Opportunities don't happen. You create them. TalentBridge helps you do just that.”
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## 🧭 Footer
 
