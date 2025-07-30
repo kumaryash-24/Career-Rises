@@ -1,5 +1,5 @@
 # 🚀 Career's Rise – Bridging Talent and Opportunity    
-                                                 
+                                                       
 <p align="center">                       
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="TalentBridge GIF" width="500" />
 </p>
