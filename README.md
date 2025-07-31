@@ -2,7 +2,7 @@
                                                        
 <p align="center">                       
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="TalentBridge GIF" width="500" />
-</p>
+</p>        
 
 **Career's Rise** is a modern MERN Stack Job Portal that connects job seekers with recruiters. With robust user authentication, job posting, file uploads (profile pic/resume), and beautiful UI, it bridges the gap between talent and opportunity.
 
