@@ -9,7 +9,7 @@
 ![](https://i.imgur.com/waxVImv.png)                                 
                   
 ## 🔥 Features
-
+         
 - 👨‍💼 Recruiter & Job Seeker Signup/Login  
 - 📄 Upload Resume & Profile Picture (Cloudinary)  
 - 📝 Post, Edit & Delete Jobs (Recruiter)  
