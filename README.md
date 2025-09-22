@@ -5,7 +5,7 @@
 </p>        
 
 **Career's Rise** is a modern MERN Stack Job Portal that connects job seekers with recruiters. With robust user authentication, job posting, file uploads (profile pic/resume), and beautiful UI, it bridges the gap between talent and opportunity.                    
-
+           
 ![](https://i.imgur.com/waxVImv.png)                                 
                   
 ## 🔥 Features             
