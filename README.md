@@ -70,3 +70,6 @@ Made with ❤️ by Kumar Yash
 © 2025 Career's Rise – Bridging Talent and Opportunity  
 Crafted with 💻, ☕, and ❤️ for developers, job seekers, and recruiters.
 
+
+
+_Last updated: 2026-09-02_
